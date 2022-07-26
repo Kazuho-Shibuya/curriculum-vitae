@@ -35,7 +35,7 @@ Java、Spring Boot、VB.net、JavaScript、TypeScript、Vue.js、HTML、JSP、Mi
 何よりプロダクトへの共感と、自分が開発するプロダクトをたくさんの方に使ってもらいたいという思いで、日々の開発に携わっております。
 
 ## プライベート
-完全独学＋全て未経験だった技術を使用し、[音楽試聴アプリ](https://github.com/Kazuho-Shibuya/unknownmusic)を作成しました。
+完全独学＋全て未経験だった技術を使用し、[音楽試聴アプリ（2020/05-2020/11）](https://github.com/Kazuho-Shibuya/unknownmusic)を作成しました。
 
 ## 職務経歴
 ### [株式会社TENT（2021/09-）](https://tent-inc.jp/)
