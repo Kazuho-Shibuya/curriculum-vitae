@@ -14,10 +14,16 @@
 | 2021年9月 | 株式会社TENT 入社 在籍中 |
 
 ## 現在の職場で使用している技術（2021/09-）
-Ruby on Rails、React、AWS、Docker、Github
+Ruby on Rails、React、JQuery、AWS、Docker、Github
 
 ## 過去に実務経験のある主な技術（2017/04-2021/08）
 Java、Spring Boot、VB.net、JavaScript、TypeScript、Vue.js、HTML、JSP、Microsoft Azure、PL/SQL、Oracle、Linux、SVN
+
+## 主なスキル・経験
+- Railsを用いてのバックエンド設計・開発
+- Reactを用いてのフロントエンド設計・開発
+- slim+JQueryを用いてのフロントエンド設計・開発
+- 可読性・保守性を意識したリファクタリング・クリーンなコーディング
 
 ## 自己PR
 ### Better is good(抜群の継続力)
@@ -43,6 +49,7 @@ Java、Spring Boot、VB.net、JavaScript、TypeScript、Vue.js、HTML、JSP、Mi
 #### 職務要約
 - クラウド型のレンタルモール[カウリル](https://kauriru.com)の設計、開発、テスト
 - カウリル出店企業向けの管理画面の設計、開発、テスト
+- レンタルサービス事業者向けクラウド型在庫管理[ZAIKA](https://za-ika.com/)の設計、開発、テスト
 
 #### 職務内容
 ##### 使用技術
