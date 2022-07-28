@@ -16,13 +16,13 @@
 ## 技術スタック
 ### 言語
 <div>
-  <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&style=plastic">
-  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-0645ad?logo=visual-basic-.net&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=plastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&style=plastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CRS-444197?logo=crs&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-0645ad?logo=visual-basic-.net&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-CRS-444197?logo=crs&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
 </div>
 
 ### フレームワーク・その他
@@ -67,8 +67,6 @@
 エンジニアとして技術が好きなことは大前提ですが、技術はプロダクトを作る手段だと考えております。
 何よりプロダクトへの共感と、自分が開発するプロダクトをたくさんの方に使ってもらいたいという思いで、日々の開発に携わっております。
 
-<div style="page-break-before:always"></div>
-
 ## プライベート
 完全独学＋全て未経験だった技術を使用し、[音楽試聴アプリ（2020/05-2020/11）](https://github.com/Kazuho-Shibuya/unknownmusic)を開発しました。
 リポジトリのREADMEに詳細をまとめております。
@@ -81,12 +79,12 @@
 
 #### 使用技術
 <div>
-  <img src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&style=plastic">
-  <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=plastic">
-  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&style=plastic">
-  <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic">
+  <img src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic" style="margin: 0">
 </div>
 
 #### プロジェクト規模
@@ -98,64 +96,62 @@
 カウリルでは企業が出店するのにあたり、必要な情報（ストア紹介、特定商法取引に基づく表記、レンタル規約、プライバシーポリシー、運営会社情報、キャンセルポリシー、破損等について）をスプレッドシート＋メールで出店企業とやり取りしていたが、1企業あたり記入＋確認していただくのに合計1ヶ月ほど出店するまでのロスが発生していた。そこでスプレッドシート＋メールではなく、管理画面から上記必要情報を直接入力していただき、カウリルに
 自動反映するようにした。この対応により、必要情報は早ければ当日に企業が入力完了し、出店準備が完了するようになった。結果少なくとも1企業あたり2週間（80時間分）は出店準備にかかる期間を短縮することができた。
 
-<div style="page-break-before:always"></div>
-
 ### [株式会社グルーヴ・ディレクション（2017/04-2021/08）](https://groove-direction.com/)
 株式会社グルーヴ・ディレクションで4年間、システムエンジニアとして従事。
 5つの案件に常駐で参加し、①保険手続きシステムの開発、②保険契約システムの開発、③保険会社社内業務の自動化、④保険会社社内業務システムの開発、⑤物流システムの開発・運用に携わる。
 #### ①保険手続きシステムの開発（2021年5月〜2021年8月）
 保険手続きシステムの設計、開発、テスト
 <div>
-  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=plastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=plastic&logoColor=white" style="margin: 0">
 </div>
 
 #### ②保険契約システムの開発（2021年1月〜2021年4月）
 
 銀行窓口における保険WEBシステムの設計、開発、テスト
 <div>
-  <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&style=plastic&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=plastic">
-  <img src="https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=plastic&logoColor=white" style="margin: 0">
 </div>
 
 #### ③大手保険会社の社内業務自動化（2019年10月〜2020年12月）
 
 アジャイル開発で社内業務PRAの設計、開発、テストを行い、総削減時間441時間 / 年
 <div>
-  <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-0645ad?logo=visual-basic-.net&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-UiPath-fa4616?logo=uipath&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-0645ad?logo=visual-basic-.net&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-UiPath-fa4616?logo=uipath&style=plastic&logoColor=white" style="margin: 0">
 </div>
 
 #### ④大手保険会社の社内業務システム開発（2019年4月〜2019年9月）
 
 社内業務システムの設計、開発、テスト（最大1500step）
 <div>
-  <img src="https://img.shields.io/badge/-CRS-444197?logo=crs&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-Biz/Browser-444197?logo=biz/browser&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-CRS-444197?logo=crs&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Biz/Browser-444197?logo=biz/browser&style=plastic&logoColor=white" style="margin: 0">
 </div>
 
 #### ⑤大手通信会社のシステム運用・保守・開発（2017年10月〜2019年3月）
 
 40万点のIT商品を扱う、B to Bの大規模物流システムの設計、開発、テスト、運用
 <div>
-  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-Oracle-f80000?logo=oracle&style=plastic">
-  <img src="https://img.shields.io/badge/-Linux-6C6694?logo=linux&style=plastic">
+  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Oracle-f80000?logo=oracle&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Linux-6C6694?logo=linux&style=plastic" style="margin: 0">
 </div>
 
 #### 社内研修・開発（2017年4月〜2017年9月）
 
 社員管理システムの開発（700step）、図書管理システムの開発（2000step）
 <div>
-  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white">
-  <img src="https://img.shields.io/badge/-MySQL-007396?style=plastic&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-MySQL-007396?style=plastic&logo=mysql&logoColor=white" style="margin: 0">
 </div>
