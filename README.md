@@ -26,28 +26,24 @@
 </div>
 
 ### フレームワーク・その他
-<div>
+<span>
   <img src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&style=plastic">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=plastic">
-</div>
-<div>
   <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&style=plastic">
   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-MySQL-007396?style=plastic&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=plastic">
   <img src="https://img.shields.io/badge/-Linux-6C6694?logo=linux&style=plastic">
-</div>
-<div>
   <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic">
   <img src="https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-UiPath-fa4616?logo=uipath&style=plastic&logoColor=white">
   <img src="https://img.shields.io/badge/-Biz/Browser-444197?logo=biz/browser&style=plastic&logoColor=white">
-</div>
+</span>
 
 ## 主なスキル・経験
 - Ruby on Railsを用いてのバックエンド設計・開発
