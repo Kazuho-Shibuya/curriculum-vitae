@@ -90,31 +90,58 @@
 #### ①保険手続きシステムの開発（2021年5月〜2021年8月）
 保険手続きシステムの設計、開発、テスト
 - 使用技術
-
-Java、Spring Boot、JSP、JavaScript、HTML、Microsoft Azure、SVN
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=plastic&logoColor=white">
+</p>
 #### ②保険契約システムの開発（2021年1月〜2021年4月）
+
 銀行窓口における保険WEBシステムの設計、開発、テスト
 - 使用技術
-
-Java、Spring、TypeScript、Vue.js、HTML、Oracle、SVN
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&style=plastic&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=plastic">
+  <img src="https://img.shields.io/badge/-Subversion-809CC9?logo=subversion&style=plastic&logoColor=white">
+</p>
 #### ③大手保険会社の社内業務自動化（2019年10月〜2020年12月）
+
 アジャイル開発で社内業務PRAの設計、開発、テストを行い、総削減時間441時間 / 年
 - 使用技術
-
-VB.net、PRA（UiPath）
+<p>
+  <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-0645ad?logo=visual-basic-.net&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-UiPath-fa4616?logo=uipath&style=plastic&logoColor=white">
+</p>
 #### ④大手保険会社の社内業務システム開発（2019年4月〜2019年9月）
+
 社内業務システムの設計、開発、テスト（最大1500step）
 - 使用技術
-
-CRS（Biz/Browser 専用のJavaScriptライクなスクリプト言語）、WinCVS
-※ Biz/Browserとは業務システムのためのアプリケーション開発・実行環境です。
+<p>
+  <img src="https://img.shields.io/badge/-CRS-444197?logo=crs&style=plastic&logoColor=white">
+  <img src="https://img.shields.io/badge/-UiPath-fa4616?logo=uipath&style=plastic&logoColor=white">
+</p>
 #### ⑤大手通信会社のシステム運用・保守・開発（2017年10月〜2019年3月）
+
 40万点のIT商品を扱う、B to Bの大規模物流システムの設計、開発、テスト、運用
 - 使用技術
-
-Java、Oracle9i、JSP、HTML、Linux、Weblogic、PL/SQL、Access
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-HTML5-333?logo=html5&style=flat">
+  <img src="https://img.shields.io/badge/-Oracle-f80000?logo=oracle&style=plastic">
+  <img src="https://img.shields.io/badge/-Linux-6C6694?logo=linux&style=plastic">
+</p>
 #### 社内研修・開発（2017年4月〜2017年9月）
+
 社員管理システムの開発（700step）、図書管理システムの開発（2000step）
 - 使用技術
-
-Java、MySQL、JSP、Tomcat
+<p>
+  <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MySQL-007396?style=plastic&logo=mysql&logoColor=white" />
+</p>
