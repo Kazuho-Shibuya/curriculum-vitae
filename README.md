@@ -4,6 +4,9 @@
 | ---- | ---- |
 | 名前 | 渋谷 一帆(Kazuho Shibuya) |
 | 生年月日 | 1995年2月13日 |
+| 居住地 | 東京都 |
+| メールアドレス | businessfive25@gmail.com |
+| Github | https://github.com/Kazuho-Shibuya |
 
 ## 経歴
 | 年月 | 所属 |
