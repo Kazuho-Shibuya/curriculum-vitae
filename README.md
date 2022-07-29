@@ -30,7 +30,7 @@
 
 ### フレームワーク・その他
 <div>
-  <img src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white" style="margin: 0">
@@ -85,7 +85,7 @@
 
 #### 使用技術
 <div>
-  <img src="https://img.shields.io/badge/-Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&style=plastic" style="margin: 0">
