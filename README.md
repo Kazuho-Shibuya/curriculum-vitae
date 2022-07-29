@@ -130,7 +130,7 @@
 <br>
 
 #### ③大手保険会社の社内業務自動化（2019年10月〜2020年12月）
-アジャイル開発で社内業務PRAの設計、開発、テストを行い、総削減時間441時間 / 年
+アジャイル開発で社内業務PRAの設計、開発、テスト
 <div>
   <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-0645ad?logo=visual-basic-.net&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-UiPath-fa4616?logo=uipath&style=plastic&logoColor=white" style="margin: 0">
@@ -138,7 +138,7 @@
 <br>
 
 #### ④大手保険会社の社内業務システム開発（2019年4月〜2019年9月）
-社内業務システムの設計、開発、テスト（最大1500step）
+社内業務システムの設計、開発、テスト
 <div>
   <img src="https://img.shields.io/badge/-CRS-444197?logo=crs&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-Biz/Browser-444197?logo=biz/browser&style=plastic&logoColor=white" style="margin: 0">
@@ -146,7 +146,7 @@
 <br>
 
 #### ⑤大手通信会社のシステム運用・保守・開発（2017年10月〜2019年3月）
-40万点のIT商品を扱う、B to Bの大規模物流システムの設計、開発、テスト、運用
+B to Bの大規模物流システムの設計、開発、テスト、運用
 <div>
   <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
@@ -156,7 +156,7 @@
 <br>
 
 #### 社内研修・開発（2017年4月〜2017年9月）
-社員管理システムの開発（700step）、図書管理システムの開発（2000step）
+社員管理システムの開発、図書管理システムの開発
 <div>
   <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
