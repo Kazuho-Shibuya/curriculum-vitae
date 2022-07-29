@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=plastic" style="margin: 0">
-  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-Microsoft%20Azure-0078D4?logo=microsoft-azure&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-MySQL-007396?style=plastic&logo=mysql&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-Oracle-f80000.svg?logo=oracle&style=plastic" style="margin: 0">
@@ -88,7 +88,7 @@
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&style=plastic" style="margin: 0">
-  <img src="https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=amazon-aws&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic" style="margin: 0">
 </div>
