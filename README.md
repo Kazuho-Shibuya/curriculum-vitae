@@ -22,6 +22,7 @@
   <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-0645ad?logo=visual-basic-.net&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-PL/SQL-f80000?logo=pl/sql&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-TypeScript-007ACC?logo=typescript&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-CRS-444197?logo=crs&style=plastic&logoColor=white" style="margin: 0">
@@ -149,6 +150,7 @@
 B to Bの大規模物流システムの設計、開発、テスト、運用
 <div>
   <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-PL/SQL-f80000?logo=pl/sql&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-Oracle-f80000?logo=oracle&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-Linux-6C6694?logo=linux&style=plastic" style="margin: 0">
