@@ -1,21 +1,25 @@
-# 職務経歴書
+# CURRICULUM VITAE
 [ English | [日本語](https://github.com/Kazuho-Shibuya/curriculum-vitae/blob/main/README.ja.md) ]
-## 基本情報
-| 列名 | 値 |
+## BASIC INFORMATION
+| Column name | Value |
 | ---- | ---- |
-| 名前 | 渋谷 一帆(Kazuho Shibuya) |
-| 生年月日 | 1995年2月13日 |
-| 居住地 | 東京都 |
-| メールアドレス | businessfive25@gmail.com |
+| Name | Kazuho Shibuya |
+| Residence | Tokyo |
+| Email | businessfive25@gmail.com |
 | Github | https://github.com/Kazuho-Shibuya |
 
-## 経歴
-| 年月 | 所属 |
+## WORK EXPERIENCE
+| Month and years | Belong to |
 | ---- | ---- |
-| 2017年3月 | [千葉工業大学](https://www.it-chiba.ac.jp/) 工学部 電気電子情報工学科 卒業 |
-| 2017年4月 | [株式会社グルーヴ・ディレクション](https://groove-direction.com/) 入社 |
-| 2021年8月 | [株式会社グルーヴ・ディレクション](https://groove-direction.com/) 退社 |
-| 2021年9月 | [株式会社TENT](https://tent-inc.jp/) 入社 在籍中 |
+| September 2021 - present | [株式会社TENT](https://tent-inc.jp/) |
+| April 2017 - August 2021 | [株式会社グルーヴ・ディレクション](https://groove-direction.com/) |
+
+## Education
+Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyo（2010）
+
+
+2017年3月 | [千葉工業大学](https://www.it-chiba.ac.jp/) 工学部 電気電子情報工学科 卒業 |
+
 
 ## 技術スタック
 ### 言語
