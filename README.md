@@ -1,4 +1,5 @@
 # 職務経歴書
+[ English | [日本語](https://github.com/Kazuho-Shibuya/curriculum-vitae/blob/main/README.ja.md) ]
 ## 基本情報
 | 列名 | 値 |
 | ---- | ---- |
