@@ -8,6 +8,9 @@
 | Email | businessfive25@gmail.com |
 | Github | https://github.com/Kazuho-Shibuya |
 
+## OBJECTIVE
+- 
+
 ## SUMMARY
 - Ruby on Railsを用いてのバックエンド設計・開発
 - Reactを用いてのフロントエンド設計・開発
