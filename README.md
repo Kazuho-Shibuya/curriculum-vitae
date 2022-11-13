@@ -27,6 +27,37 @@
 | September 2021 - present | [TENT, Inc.](https://tent-inc.jp/) |
 | April 2017 - August 2021 | [GROOVE DIRECTION INC.](https://groove-direction.com/) |
 
+## 職務経歴
+### [株式会社TENT（2021/09-）](https://tent-inc.jp/)
+クラウド型のレンタルモール[カウリル](https://kauriru.com)、カウリル出店企業向けの管理画面の開発に従事。
+主に管理画面のフロントエンドからバックエンドまで開発を担当し、出店企業からの要望などを中心に月平均10issueを消化。
+また、レンタルサービス事業者向けクラウド型在庫管理[ZAIKA](https://za-ika.com/)への連携も行っており、システム間連携のAPI開発も経験。
+
+#### 使用技術
+<div>
+  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon-aws&style=plastic" style="margin: 0">
+  <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&style=plastic&logoColor=white" style="margin: 0">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic" style="margin: 0">
+</div>
+
+#### プロジェクト規模
+平均3人程度でのアジャイル開発
+
+#### 課題解決
+カウリルでは企業が出店するのにあたり、必要な情報（ストア紹介、特定商法取引に基づく表記、レンタル規約、プライバシーポリシー、運営会社情報、キャンセルポリシー、破損等について）をスプレッドシート＋メールで出店企業とやり取りしていたが、1企業あたり記入＋確認していただくのに合計1ヶ月ほど出店するまでのロスが発生していた。そこでスプレッドシート＋メールではなく、管理画面から上記必要情報を直接入力していただき、カウリルに
+自動反映するようにした。この対応により、必要情報は早ければ当日に企業が入力完了し、出店準備が完了するようになった。結果少なくとも1企業あたり2週間（80時間分）は出店準備にかかる期間を短縮することができた。
+
+<div style="page-break-before:always"></div>
+
+### [株式会社グルーヴ・ディレクション（2017/04-2021/08）](https://groove-direction.com/)
+株式会社グルーヴ・ディレクションで4年間、システムエンジニアとして従事。
+5つの案件に常駐で参加し、①保険手続きシステムの開発、②保険契約システムの開発、③保険会社社内業務の自動化、④保険会社社内業務システムの開発、⑤物流システムの開発・運用に携わる。
+
+
+
 #### ①保険手続きシステムの開発（2021年5月〜2021年8月）
 保険手続きシステムの設計、開発、テスト
 <div>
@@ -150,33 +181,3 @@ Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyo（2010�
 ## プライベート
 完全独学＋全て実務未経験だった技術を使用し、[音楽試聴アプリ（2020/05-2020/11）](https://github.com/Kazuho-Shibuya/unknownmusic)を開発しました。
 リポジトリのREADMEに詳細をまとめております。
-
-## 職務経歴
-### [株式会社TENT（2021/09-）](https://tent-inc.jp/)
-クラウド型のレンタルモール[カウリル](https://kauriru.com)、カウリル出店企業向けの管理画面の開発に従事。
-主に管理画面のフロントエンドからバックエンドまで開発を担当し、出店企業からの要望などを中心に月平均10issueを消化。
-また、レンタルサービス事業者向けクラウド型在庫管理[ZAIKA](https://za-ika.com/)への連携も行っており、システム間連携のAPI開発も経験。
-
-#### 使用技術
-<div>
-  <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
-  <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white" style="margin: 0">
-  <img src="https://img.shields.io/badge/-JQuery-0769AD?logo=jquery&style=plastic" style="margin: 0">
-  <img src="https://img.shields.io/badge/-Amazon%20Web%20Services-232F3E?logo=amazon-aws&style=plastic" style="margin: 0">
-  <img src="https://img.shields.io/badge/-Docker-46a2f1?logo=docker&style=plastic&logoColor=white" style="margin: 0">
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic" style="margin: 0">
-</div>
-
-#### プロジェクト規模
-平均3人程度でのアジャイル開発
-
-#### 課題解決
-カウリルでは企業が出店するのにあたり、必要な情報（ストア紹介、特定商法取引に基づく表記、レンタル規約、プライバシーポリシー、運営会社情報、キャンセルポリシー、破損等について）をスプレッドシート＋メールで出店企業とやり取りしていたが、1企業あたり記入＋確認していただくのに合計1ヶ月ほど出店するまでのロスが発生していた。そこでスプレッドシート＋メールではなく、管理画面から上記必要情報を直接入力していただき、カウリルに
-自動反映するようにした。この対応により、必要情報は早ければ当日に企業が入力完了し、出店準備が完了するようになった。結果少なくとも1企業あたり2週間（80時間分）は出店準備にかかる期間を短縮することができた。
-
-<div style="page-break-before:always"></div>
-
-### [株式会社グルーヴ・ディレクション（2017/04-2021/08）](https://groove-direction.com/)
-株式会社グルーヴ・ディレクションで4年間、システムエンジニアとして従事。
-5つの案件に常駐で参加し、①保険手続きシステムの開発、②保険契約システムの開発、③保険会社社内業務の自動化、④保険会社社内業務システムの開発、⑤物流システムの開発・運用に携わる。
-
