@@ -121,9 +121,6 @@ B to Bの大規模物流システムの設計、開発、テスト、運用
 Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyo（2010）
 
 
-2017年3月 | [千葉工業大学](https://www.it-chiba.ac.jp/) 工学部 電気電子情報工学科 卒業 |
-
-
 ## 技術スタック
 ### 言語
 <div>
