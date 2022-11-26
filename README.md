@@ -12,8 +12,8 @@
 - 
 
 ## SUMMARY
-- Ruby on Railsを用いてのバックエンド設計・開発
-- Reactを用いてのフロントエンド設計・開発
+- Back-end design and development using Ruby on Rails
+- Front-end design and development using React
 - slim+JQueryを用いてのフロントエンド設計・開発
 - RSpecを用いたテストコード
 - 可読性・保守性を意識したリファクタリング
