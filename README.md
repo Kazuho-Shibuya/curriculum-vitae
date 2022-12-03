@@ -122,7 +122,7 @@ Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyo（2010�
 
 
 ## 技術スタック
-### 言語
+### language
 <div>
   <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" style="margin: 0">
