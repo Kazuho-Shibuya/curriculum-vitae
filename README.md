@@ -160,21 +160,21 @@ Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyo（2010�
 
 <div style="page-break-before:always"></div>
 
-## 自己PR
-### Better is good(抜群の継続力)
-常に改善を繰り返し、継続的に成長することが得意です。
-例えばGithubでは、スキルアップのために日々欠かさずアウトプットすることを心がけました。
-そのことにより、学習の習慣化に成功し、Github contributionsを728日連続で達成しておりました。
-また、現在でもほとんど欠かさず日々アウトプットを続けています。
+## Strong point
+### Better is good
+I am good at constant improvement and continuous growth.
+For example, at Github, I made sure to output daily without fail in order to improve my skills.
+By doing so, I succeeded in making learning a habit and had achieved Github contributions for 728 consecutive days.
+In addition, I still continue to output almost without fail on a daily basis.
 
-### Readable code(読みやすいコード)
-常にコードを読みやすいように実装することを心がけております。
-それはチームメンバーのためでもあり、ひいては未来の自分のためだと考えているからです。
+### Readable code
+We always try to implement the code in a readable way.
+This is because we believe that this is also for the sake of our team members and, in turn, for our future selves.
 
-### Product Driven(プロダクト思考)
-エンジニアとして技術が好きなことは大前提ですが、技術はプロダクトを作る手段だと考えております。
-何よりプロダクトへの共感と、自分が開発するプロダクトをたくさんの方に使ってもらいたいという思いで、日々の開発に携わっております。
+### Product Driven
+As an engineer, it is a prerequisite that I love technology, but I also believe that technology is a means to create products.
+Above all, I am involved in daily development with a sense of empathy for the products and a desire to have many people use the products I develop.
 
-## プライベート
-完全独学＋全て実務未経験だった技術を使用し、[音楽試聴アプリ（2020/05-2020/11）](https://github.com/Kazuho-Shibuya/unknownmusic)を開発しました。
-リポジトリのREADMEに詳細をまとめております。
+## private
+I developed [Music Listening App (2020/05-2020/11)](https://github.com/Kazuho-Shibuya/unknownmusic) using technology that was completely self-taught + all with no practical experience.
+The README in the repository summarises the details.
