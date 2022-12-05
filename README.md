@@ -53,8 +53,10 @@
 <div style="page-break-before:always"></div>
 
 ### [株式会社グルーヴ・ディレクション（2017/04-2021/08）](https://groove-direction.com/)
-株式会社グルーヴ・ディレクションで4年間、システムエンジニアとして従事。
-5つの案件に常駐で参加し、①保険手続きシステムの開発、②保険契約システムの開発、③保険会社社内業務の自動化、④保険会社社内業務システムの開発、⑤物流システムの開発・運用に携わる。
+Worked as a system engineer for four years at Groove Direction Inc.
+He participated in five projects on a permanent basis and was involved in (i) the development of insurance procedure systems, (ii) the development of insurance policy systems, (iii) the automation of insurance company internal operations, (iv) the development of insurance company internal business systems, and (v) the development and operation of logistics systems.
+
+Translated with www.DeepL.com/Translator (free version)
 
 
 
