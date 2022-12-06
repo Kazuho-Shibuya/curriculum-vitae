@@ -47,8 +47,10 @@
 平均3人程度でのアジャイル開発
 
 #### 課題解決
-カウリルでは企業が出店するのにあたり、必要な情報（ストア紹介、特定商法取引に基づく表記、レンタル規約、プライバシーポリシー、運営会社情報、キャンセルポリシー、破損等について）をスプレッドシート＋メールで出店企業とやり取りしていたが、1企業あたり記入＋確認していただくのに合計1ヶ月ほど出店するまでのロスが発生していた。そこでスプレッドシート＋メールではなく、管理画面から上記必要情報を直接入力していただき、カウリルに
-自動反映するようにした。この対応により、必要情報は早ければ当日に企業が入力完了し、出店準備が完了するようになった。結果少なくとも1企業あたり2週間（80時間分）は出店準備にかかる期間を短縮することができた。
+kauriru had been exchanging necessary information (store introduction, description based on specific commercial transactions, rental agreement, privacy policy, management company information, cancellation policy, damage, etc.) with companies opening stores via spreadsheets and emails. However, it took a total of about one month for each company to fill out the form and confirm it before opening a new store. Instead of using spreadsheets and e-mail, we asked companies to enter the above necessary information directly from the management screen and have it reflected automatically in KAURIL.
+The information was automatically reflected in Cowlil. This enabled companies to complete the necessary information as early as the same day and complete preparations for opening a new store. As a result, at least two weeks (80 hours) per company were saved in the preparation time required to open a new store.
+
+Translated with www.DeepL.com/Translator (free version)
 
 <div style="page-break-before:always"></div>
 
