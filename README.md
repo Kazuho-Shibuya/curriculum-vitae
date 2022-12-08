@@ -58,9 +58,6 @@ Translated with www.DeepL.com/Translator (free version)
 Worked as a system engineer for four years at Groove Direction Inc.
 He participated in five projects on a permanent basis and was involved in (i) the development of insurance procedure systems, (ii) the development of insurance policy systems, (iii) the automation of insurance company internal operations, (iv) the development of insurance company internal business systems, and (v) the development and operation of logistics systems.
 
-Translated with www.DeepL.com/Translator (free version)
-
-
 
 #### ①保険手続きシステムの開発（2021年5月〜2021年8月）
 保険手続きシステムの設計、開発、テスト
