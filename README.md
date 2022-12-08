@@ -27,11 +27,11 @@
 | September 2021 - present | [TENT, Inc.](https://tent-inc.jp/) |
 | April 2017 - August 2021 | [GROOVE DIRECTION INC.](https://groove-direction.com/) |
 
-## 職務経歴
+## WORK HISTORY
 ### [株式会社TENT（2021/09-）](https://tent-inc.jp/)
-クラウド型のレンタルモール[カウリル](https://kauriru.com)、カウリル出店企業向けの管理画面の開発に従事。
-主に管理画面のフロントエンドからバックエンドまで開発を担当し、出店企業からの要望などを中心に月平均10issueを消化。
-また、レンタルサービス事業者向けクラウド型在庫管理[ZAIKA](https://za-ika.com/)への連携も行っており、システム間連携のAPI開発も経験。
+Worked on the development of a cloud-based rental mall [kauriru](https://kauriru.com) and management screens for companies opening kauriru shops.
+Mainly responsible for the development of the management screen, from front-end to back-end, and averages 10 issues per month, mainly in response to requests from companies opening shops.
+Also works with cloud-based inventory management for rental service providers [ZAIKA](https://za-ika.com/), and has experience in developing APIs for inter-system collaboration.
 
 #### 使用技術
 <div>
