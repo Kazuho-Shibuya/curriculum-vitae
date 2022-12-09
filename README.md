@@ -135,7 +135,7 @@ Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyo（2010�
   <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
 </div>
 
-### フレームワーク・その他
+### FRAMEWORKS AND OTHERS
 <div>
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&style=plastic&logoColor=white" style="margin: 0">
@@ -156,12 +156,12 @@ Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyo（2010�
 </div>
 <br>
 
-## 主なスキル・経験
+## MAIN SKILLS AND EXPERIENCE
 
 
 <div style="page-break-before:always"></div>
 
-## Strong point
+## STRONG POINT
 ### Better is good
 I am good at constant improvement and continuous growth.
 For example, at Github, I made sure to output daily without fail in order to improve my skills.
@@ -169,7 +169,7 @@ By doing so, I succeeded in making learning a habit and had achieved Github cont
 In addition, I still continue to output almost without fail on a daily basis.
 
 ### Readable code
-We always try to implement the code in a readable way.
+I always try to implement the code in a readable way.
 This is because we believe that this is also for the sake of our team members and, in turn, for our future selves.
 
 ### Product Driven
