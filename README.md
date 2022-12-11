@@ -33,7 +33,7 @@ Worked on the development of a cloud-based rental mall [kauriru](https://kauriru
 Mainly responsible for the development of the management screen, from front-end to back-end, and averages 10 issues per month, mainly in response to requests from companies opening shops.
 Also works with cloud-based inventory management for rental service providers [ZAIKA](https://za-ika.com/), and has experience in developing APIs for inter-system collaboration.
 
-#### 使用技術
+#### TECHNOLOGY USED
 <div>
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
   <img src="https://img.shields.io/badge/-React-45b8d8?logo=react&style=plastic&logoColor=white" style="margin: 0">
@@ -43,10 +43,10 @@ Also works with cloud-based inventory management for rental service providers [Z
   <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&style=plastic" style="margin: 0">
 </div>
 
-#### プロジェクト規模
+#### PROJECT SCALE
 平均3人程度でのアジャイル開発
 
-#### 課題解決
+#### PROBLEM SOLVING
 kauriru had been exchanging necessary information (store introduction, description based on specific commercial transactions, rental agreement, privacy policy, management company information, cancellation policy, damage, etc.) with companies opening stores via spreadsheets and emails. However, it took a total of about one month for each company to fill out the form and confirm it before opening a new store. Instead of using spreadsheets and e-mail, we asked companies to enter the above necessary information directly from the management screen and have it reflected automatically in KAURIL.
 The information was automatically reflected in Cowlil. This enabled companies to complete the necessary information as early as the same day and complete preparations for opening a new store. As a result, at least two weeks (80 hours) per company were saved in the preparation time required to open a new store.
 
