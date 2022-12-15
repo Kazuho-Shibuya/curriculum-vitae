@@ -44,7 +44,7 @@ Also works with cloud-based inventory management for rental service providers [Z
 </div>
 
 #### PROJECT SCALE
-平均3人程度でのアジャイル開発
+Agile development with an average of about three people
 
 #### PROBLEM SOLVING
 kauriru had been exchanging necessary information (store introduction, description based on specific commercial transactions, rental agreement, privacy policy, management company information, cancellation policy, damage, etc.) with companies opening stores via spreadsheets and emails. However, it took a total of about one month for each company to fill out the form and confirm it before opening a new store. Instead of using spreadsheets and e-mail, we asked companies to enter the above necessary information directly from the management screen and have it reflected automatically in KAURIL.
