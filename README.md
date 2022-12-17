@@ -60,7 +60,7 @@ He participated in five projects on a permanent basis and was involved in (i) th
 
 
 #### ①保険手続きシステムの開発（2021年5月〜2021年8月）
-保険手続きシステムの設計、開発、テスト
+Design, development and testing of insurance procedure systems
 <div>
   <img src="https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=spring-boot&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&style=plastic&logoColor=white" style="margin: 0">
