@@ -71,7 +71,7 @@ Design, development and testing of insurance procedure systems
 <br>
 
 #### ②保険契約システムの開発（2021年1月〜2021年4月）
-銀行窓口における保険WEBシステムの設計、開発、テスト
+Design, development and testing of insurance web systems at the bank counter
 <div>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=vue.js&style=plastic&logoColor=white" style="margin: 0">
