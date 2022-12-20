@@ -28,7 +28,7 @@
 | April 2017 - August 2021 | [GROOVE DIRECTION INC.](https://groove-direction.com/) |
 
 ## WORK HISTORY
-### [株式会社TENT（2021/09-）](https://tent-inc.jp/)
+### [TENT, Inc.（2021/09-）](https://tent-inc.jp/)
 Worked on the development of a cloud-based rental mall [kauriru](https://kauriru.com) and management screens for companies opening kauriru shops.
 Mainly responsible for the development of the management screen, from front-end to back-end, and averages 10 issues per month, mainly in response to requests from companies opening shops.
 Also works with cloud-based inventory management for rental service providers [ZAIKA](https://za-ika.com/), and has experience in developing APIs for inter-system collaboration.
@@ -54,7 +54,7 @@ Translated with www.DeepL.com/Translator (free version)
 
 <div style="page-break-before:always"></div>
 
-### [株式会社グルーヴ・ディレクション（2017/04-2021/08）](https://groove-direction.com/)
+### [GROOVE DIRECTION INC.（2017/04-2021/08）](https://groove-direction.com/)
 Worked as a system engineer for four years at Groove Direction Inc.
 He participated in five projects on a permanent basis and was involved in (i) the development of insurance procedure systems, (ii) the development of insurance policy systems, (iii) the automation of insurance company internal operations, (iv) the development of insurance company internal business systems, and (v) the development and operation of logistics systems.
 
