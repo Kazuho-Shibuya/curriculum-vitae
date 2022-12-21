@@ -83,7 +83,7 @@ Design, development and testing of insurance web systems at the bank counter
 <br>
 
 #### ③大手保険会社の社内業務自動化（2019年10月〜2020年12月）
-アジャイル開発で社内業務PRAの設計、開発、テスト
+Agile development to design, develop and test internal business PRAs.
 <div>
   <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-0645ad?logo=visual-basic-.net&style=plastic&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-UiPath-fa4616?logo=uipath&style=plastic&logoColor=white" style="margin: 0">
