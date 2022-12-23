@@ -70,7 +70,7 @@ Design, development and testing of insurance procedure systems
 </div>
 <br>
 
-#### ②保険契約システムの開発（2021年1月〜2021年4月）
+#### ②Development of insurance policy systems（2021/01〜2021/04）
 Design, development and testing of insurance web systems at the bank counter
 <div>
   <img src="https://img.shields.io/badge/-Spring-6DB33F?logo=spring&style=plastic&logoColor=white" style="margin: 0">
