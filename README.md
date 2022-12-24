@@ -90,7 +90,7 @@ Agile development to design, develop and test internal business PRAs.
 </div>
 <br>
 
-#### ④大手保険会社の社内業務システム開発（2019年4月〜2019年9月）
+#### ④Development of internal business systems for major insurance companies.（2019/04〜2019/09）
 社内業務システムの設計、開発、テスト
 <div>
   <img src="https://img.shields.io/badge/-CRS-444197?logo=crs&style=plastic&logoColor=white" style="margin: 0">
