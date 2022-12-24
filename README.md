@@ -82,7 +82,7 @@ Design, development and testing of insurance web systems at the bank counter
 </div>
 <br>
 
-#### ③大手保険会社の社内業務自動化（2019年10月〜2020年12月）
+#### ③Automation of internal operations of a major insurance company.（2019/10〜2020/12）
 Agile development to design, develop and test internal business PRAs.
 <div>
   <img src="https://img.shields.io/badge/-Visual%20Basic%20.NET-0645ad?logo=visual-basic-.net&style=plastic&logoColor=white" style="margin: 0">
