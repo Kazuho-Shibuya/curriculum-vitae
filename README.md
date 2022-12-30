@@ -98,8 +98,8 @@ Design, development and testing of internal business systems
 </div>
 <br>
 
-#### ⑤大手通信会社のシステム運用・保守・開発（2017年10月〜2019年3月）
-B to Bの大規模物流システムの設計、開発、テスト、運用
+#### ⑤System operation, maintenance and development for major telecommunications companies（2017/10〜2019/03）
+Design, development, testing and operation of large-scale B to B logistics systems
 <div>
   <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=Java&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-PL/SQL-f80000?logo=pl/sql&style=plastic&logoColor=white" style="margin: 0">
