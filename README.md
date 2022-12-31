@@ -122,7 +122,7 @@ Design, development, testing and operation of large-scale B to B logistics syste
 Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyo（2010）
 
 
-## 技術スタック
+## technology stack
 ### language
 <div>
   <img src="https://img.shields.io/badge/-Ruby-CC342D?logo=ruby&style=plastic" style="margin: 0">
