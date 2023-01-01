@@ -50,8 +50,6 @@ Agile development with an average of about three people
 kauriru had been exchanging necessary information (store introduction, description based on specific commercial transactions, rental agreement, privacy policy, management company information, cancellation policy, damage, etc.) with companies opening stores via spreadsheets and emails. However, it took a total of about one month for each company to fill out the form and confirm it before opening a new store. Instead of using spreadsheets and e-mail, we asked companies to enter the above necessary information directly from the management screen and have it reflected automatically in KAURIL.
 The information was automatically reflected in Cowlil. This enabled companies to complete the necessary information as early as the same day and complete preparations for opening a new store. As a result, at least two weeks (80 hours) per company were saved in the preparation time required to open a new store.
 
-Translated with www.DeepL.com/Translator (free version)
-
 <div style="page-break-before:always"></div>
 
 ### [GROOVE DIRECTION INC.（2017/04-2021/08）](https://groove-direction.com/)
