@@ -107,8 +107,6 @@ Design, development, testing and operation of large-scale B to B logistics syste
 </div>
 <br>
 
-#### 社内研修・開発（2017年4月〜2017年9月）
-社員管理システムの開発、図書管理システムの開発
 <div>
   <img src="https://img.shields.io/badge/-Java-007396?style=plastic&logo=java&logoColor=white" style="margin: 0">
   <img src="https://img.shields.io/badge/-HTML5-e34f26?logo=html5&style=plastic&logoColor=white" style="margin: 0">
