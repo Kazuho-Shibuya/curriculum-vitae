@@ -9,7 +9,7 @@
 | Github | https://github.com/Kazuho-Shibuya |
 
 ## OBJECTIVE
-- 
+To have a challenging and rewarding career as a software engineer, making use of their previous experience.
 
 ## SUMMARY
 - Back-end design and development using Ruby on Rails
