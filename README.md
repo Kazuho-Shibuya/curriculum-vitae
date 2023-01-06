@@ -152,7 +152,6 @@ Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyoï¼ˆ2010ï
 
 ## MAIN SKILLS AND EXPERIENCE
 
-
 <div style="page-break-before:always"></div>
 
 ## STRONG POINT
