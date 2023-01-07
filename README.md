@@ -112,7 +112,6 @@ Design, development, testing and operation of large-scale B to B logistics syste
   <img src="https://img.shields.io/badge/-MySQL-007396?style=plastic&logo=mysql&logoColor=white" style="margin: 0">
 </div>
 
-
 ## Education
 Bachelor of Faculty of Engineering, Chiba Institute of Technology, Tokyo（2010）
 
