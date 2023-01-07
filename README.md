@@ -1,4 +1,7 @@
-# CURRICULUM VITAE
+<div style="text-align: center;">
+  # Kazuho Shibuya
+</div>
+
 [ English | [日本語](https://github.com/Kazuho-Shibuya/curriculum-vitae/blob/main/README.ja.md) ]
 ## BASIC INFORMATION
 | Column name | Value |
