@@ -1,15 +1,8 @@
-<div style="text-align: center;">
-  # Kazuho Shibuya
-</div>
-
-[ English | [日本語](https://github.com/Kazuho-Shibuya/curriculum-vitae/blob/main/README.ja.md) ]
-## BASIC INFORMATION
-| Column name | Value |
-| ---- | ---- |
-| Name | Kazuho Shibuya |
-| Residence | Tokyo |
-| Email | businessfive25@gmail.com |
-| Github | https://github.com/Kazuho-Shibuya |
+<p align="center" style="font-size: 30%">
+  KAZUHO SHIBUYA<br>
+  Email: kazuworld4@gmail.com<br>
+  Github: https://github.com/Kazuho-Shibuya
+</p>
 
 ## OBJECTIVE
 To have a challenging and rewarding career as a software engineer, making use of their previous experience.
@@ -174,3 +167,5 @@ Above all, I am involved in daily development with a sense of empathy for the pr
 ## private
 I developed [Music Listening App (2020/05-2020/11)](https://github.com/Kazuho-Shibuya/unknownmusic) using technology that was completely self-taught + all with no practical experience.
 The README in the repository summarises the details.
+
+[ English | [日本語](https://github.com/Kazuho-Shibuya/curriculum-vitae/blob/main/README.ja.md) ]
