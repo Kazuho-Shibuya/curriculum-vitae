@@ -1,4 +1,4 @@
-<p align="center" style="font-size: 30%">
+<p align="center">
   KAZUHO SHIBUYA<br>
   Email: kazuworld4@gmail.com<br>
   Github: https://github.com/Kazuho-Shibuya
