@@ -86,7 +86,7 @@ Bachelor of Faculty of Engineering, Chiba Institute of Technology (Chiba, Japan)
 <div style="page-break-before:always"></div>
 
 ## PRIVATE
-I developed [Music Listening App](https://github.com/Kazuho-Shibuya/unknownmusic) (2020/05-2020/11) using technology that was completely self-taught + all with no practical experience.
+I developed a [Music Listening App](https://github.com/Kazuho-Shibuya/unknownmusic) (2020/05-2020/11) using technology that was completely self-taught + all with no practical experience.
 The README in the repository summarises the details.
 
 [ English | [日本語](https://github.com/Kazuho-Shibuya/curriculum-vitae/blob/main/README.ja.md) ]
