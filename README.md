@@ -64,7 +64,7 @@ Software engineer
 ## WORK HISTORY
 ### [n, inc.](https://then.co.jp/) (Tokyo, Japan) August 2022 - Present
 Software engineer with a second job
-- As a outsourced engineer, responsible for the development of software as a service.
+- As an outsourced engineer, responsible for the development of software as a service.
 - Experience in back-end development using Rails and GraphQL and front-end development using Next.js, TypeScript and Relay
 
 ### [TENT, Inc.](https://tent-inc.jp/) (Tokyo, Japan) September 2021 - Present 
