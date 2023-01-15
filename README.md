@@ -9,12 +9,12 @@ To grow a small service as a software engineer, using my previous experience.
 
 ## SUMMARY
 Software engineer
-- 0.5 years of experience in back-end design and development using Ruby on Rails and GraphQL
-- 1.5 years of experience in back-end design and development using Ruby on Rails and REST API
-- 0.5 years of experience in front-end design and development using Next.js and TypeScript
-- 1.5 years of experience in front-end design and development using React and JavaScript
-- 1.5 years of experience in development using Docker and AWS
-- 6 years of experience in refactoring for readability and maintainability
+- 0.5 years of experience in back-end design and development using Ruby on Rails and GraphQL.
+- 1.5 years of experience in back-end design and development using Ruby on Rails and REST API.
+- 0.5 years of experience in front-end design and development using Next.js and TypeScript.
+- 1.5 years of experience in front-end design and development using React and JavaScript.
+- 1.5 years of experience in development using Docker and AWS.
+- 6 years of experience in refactoring for readability and maintainability.
 
 ## TECHNOLOGY USED
 ### BACK-END
@@ -65,7 +65,7 @@ Software engineer
 ### [n, inc.](https://then.co.jp/) (Tokyo, Japan) August 2022 - Present
 Software engineer with a second job
 - As an outsourced engineer, responsible for the development of software as a service.
-- Experience in back-end development using Rails and GraphQL and front-end development using Next.js, TypeScript and Relay
+- Experience in back-end development using Rails and GraphQL and front-end development using Next.js, TypeScript and Relay.
 
 ### [TENT, Inc.](https://tent-inc.jp/) (Tokyo, Japan) September 2021 - Present 
 Software engineer
@@ -77,16 +77,16 @@ Software engineer
 
 ### [GROOVE DIRECTION INC.](https://groove-direction.com/) (Tokyo, Japan) April 2017 - August 2021 
 System engineer
-- involved in a total of 5 projects, including the development of a contract system for a major insurance company and the development and operation of a logistics system.
-- Mainly back-end development using Spring and Java and front-end development using Javascript.
+- Involved in a total of 5 projects, including the development of a contract system for a major insurance company and the development and operation of a logistics system.
+- Mainly back-end development using Spring and Java and front-end development using JavaScript.
 
 ## EDUCATION
-Bachelor of Faculty of Engineering, Chiba Institute of Technology (Chiba, Japan) 2013 - 2017
+Bachelor of Faculty of Engineering, Chiba Institute of Technology (Chiba, Japan) 2013 - 2017.
 
 <div style="page-break-before:always"></div>
 
 ## PRIVATE
-I developed a [Music Listening App](https://github.com/Kazuho-Shibuya/unknownmusic) (2020/05-2020/11) using technology that was completely self-taught + all with no practical experience.
+Developed a [Music Listening App](https://github.com/Kazuho-Shibuya/unknownmusic) (2020/05-2020/11) using technology that was completely self-taught + all with no practical experience.
 The README in the repository summarises the details.
 
 [ English | [日本語](https://github.com/Kazuho-Shibuya/curriculum-vitae/blob/main/README.ja.md) ]
