@@ -5,7 +5,7 @@
 </p>
 
 ## SUMMARY
-Good at constant improvement and continuous growth. Has contributed to github for more than 700 consecutive days. 6 years of experience in refactoring for readability and maintainability. Often complimented on how easy the code is to read. Like to have conversations. Can always have a conversation about an issue to make it better. Can work up to 20 hours a week as a second job.
+Good at constant improvement and continuous growth. Has contributed to github for more than 700 consecutive days. 6 years of experience in refactoring for readability and maintainability. Often complimented on how easy the code is to read. Like to have conversations.
 
 ## PROFESSIONAL SKILLS
 ### BACK-END
