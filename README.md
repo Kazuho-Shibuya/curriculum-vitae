@@ -4,19 +4,10 @@
   Github: https://github.com/Kazuho-Shibuya
 </p>
 
-## OBJECTIVE
-To grow a small service as a software engineer, using my previous experience.
-
 ## SUMMARY
-Software engineer
-- 0.5 years of experience in back-end design and development using Ruby on Rails and GraphQL.
-- 1.5 years of experience in back-end design and development using Ruby on Rails and REST API.
-- 0.5 years of experience in front-end design and development using Next.js and TypeScript.
-- 1.5 years of experience in front-end design and development using React and JavaScript.
-- 1.5 years of experience in development using Docker and AWS.
-- 6 years of experience in refactoring for readability and maintainability.
+Good at constant improvement and continuous growth. Has contributed to github for more than 700 consecutive days. 6 years of experience in refactoring for readability and maintainability. Often complimented on how easy the code is to read. Like to have conversations. Can always have a conversation about an issue to make it better. Can work up to 20 hours a week as a second job.
 
-## TECHNOLOGY USED
+## PROFESSIONAL SKILLS
 ### BACK-END
 <div>
   <img src="https://img.shields.io/badge/-Ruby%20on%20Rails-CC0000?logo=ruby-on-rails&style=plastic" style="margin: 0">
@@ -61,7 +52,7 @@ Software engineer
   <img src="https://img.shields.io/badge/-Biz/Browser-444197?logo=biz/browser&style=plastic&logoColor=white" style="margin: 0">
 </div>
 
-## WORK HISTORY
+## WORK EXPERIENCE
 ### [n, inc.](https://then.co.jp/) (Tokyo, Japan) August 2022 - Present
 Software engineer with a second job
 - As an outsourced engineer, responsible for the development of software as a service.
@@ -85,7 +76,7 @@ Bachelor of Faculty of Engineering, Chiba Institute of Technology (Chiba, Japan)
 
 <div style="page-break-before:always"></div>
 
-## PRIVATE
+## ADDITIONAL INFORMATION
 Developed a [Music Listening App](https://github.com/Kazuho-Shibuya/unknownmusic) (2020/05-2020/11) using technology that was completely self-taught + all with no practical experience.
 The README in the repository summarises the details.
 
