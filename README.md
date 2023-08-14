@@ -5,7 +5,7 @@
 </p>
 
 ## SUMMARY
-Good at constant improvement and continuous growth. Has contributed to github for more than 700 consecutive days. 6 years of experience in refactoring for readability and maintainability. Often complimented on how easy the code is to read. Like to have conversations. Can always have a conversation about an issue to make it better. 
+Experienced software engineer with a strong track record of over 6 years working for Tokyo-based companies. Committed to continuous improvement and personal growth, as demonstrated by more than 700 consecutive days of personal contributions on GitHub. Highly skilled in refactoring code for enhanced readability and maintainability, often praised for creating code that is easy to comprehend. Effective communicator and team player, excelling in collaborative environments even while working on complicated tasks.
 
 ## PROFESSIONAL SKILLS
 ### BACK-END
@@ -53,23 +53,26 @@ Good at constant improvement and continuous growth. Has contributed to github fo
 </div>
 
 ## WORK EXPERIENCE
-### [n, inc.](https://then.co.jp/) (Tokyo, Japan) August 2022 - Present
-Software engineer with a second job
-- As an outsourced engineer, responsible for the development of software as a service.
-- Experience in back-end development using Rails and GraphQL and front-end development using Next.js, TypeScript and Relay.
-
 ### [TENT, Inc.](https://tent-inc.jp/) (Tokyo, Japan) September 2021 - Present 
-Software engineer
-- Worked on the development of a cloud-based rental mall [kauriru](https://kauriru.com) and management screens for companies opening kauriru shops. Also works with cloud-based inventory management for rental service providers [ZAIKA](https://za-ika.com/).
-- Only full-time software engineer and a team development of around 3 outsourced engineers for each application.
-- Experience in both front-end and back-end development, mainly API development in Rails using REST.
+Lead Software Engineer
+- Spearheaded the development of a cloud-based rental mall kauriru and management screens for companies opening [kauriru](https://kauriru.com) shops.
+- Worked on the development of a cloud-based inventory management app for rental service providers [ZAIKA](https://za-ika.com)
+- Gained 1.5 years of experience with Ruby on Rails, REST API, React, Docker, AWS
+- Parallel to development, from issue creation to PR review.
+- Developed new functions and streamlining of management screens contributed to more than 5x growth in Gross Merchandise Value.
 
 <div style="page-break-before:always"></div>
 
+### [n, inc.](https://then.co.jp/) (Tokyo, Japan) August 2022 - January 2023
+Software Engineer (Part Time)
+- Worked on a cloud-based marketing app and was responsible for approximately 12 tasks across six months, based on tasks cut out by a full-time engineer.
+- Gained significant experience with Ruby on Rails, GraphQL, Next.js, TypeScript and Relay.
+
 ### [GROOVE DIRECTION INC.](https://groove-direction.com/) (Tokyo, Japan) April 2017 - August 2021 
 System engineer
-- Involved in a total of 5 projects, including the development of a contract system for a major insurance company and the development and operation of a logistics system.
-- Mainly back-end development using Spring and Java and front-end development using JavaScript.
+- Played a significant role in a total of five projects, including the development of an insurance system for the bank counter and the development and operation of a B2B IT sales web application.
+- Collaborated as a key member of a five-person team to successfully develop and deliver projects on schedule.
+- Achieved advanced proficiency with Spring, Java, JavaScript etc etc.
 
 ## EDUCATION
 Bachelor of Faculty of Engineering, Chiba Institute of Technology (Chiba, Japan) 2013 - 2017.
